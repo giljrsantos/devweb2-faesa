@@ -1,4 +1,4 @@
-# DEVWEB2-FAESA
+### CURRÍCULO WEB
 
 Esse Projeto é uma atividade de diagnóstico inicial.
 
