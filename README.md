@@ -1,4 +1,4 @@
-### CURRÍCULO WEB
+# **CURRÍCULO WEB**
 
 Esse Projeto é uma atividade de diagnóstico inicial.
 
